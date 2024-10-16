@@ -1,4 +1,15 @@
+#!/usr/bin/python3
+
+"""
+    Module to get the pascal triangle of a
+    given number
+"""
+
 def pascal_triangle(n):
+    """
+        Function to get the list of each of
+        pascal triangle of a given number
+    """
     my_lists = []
     for i in range(n):
         my_lists.append([])
