@@ -5,6 +5,7 @@
     given number
 """
 
+
 def pascal_triangle(n):
     """
         Function to get the list of each of
