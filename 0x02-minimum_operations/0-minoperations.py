@@ -1,4 +1,4 @@
-#!/bin/python3
+#!/usr/bin/python3
 """
 Module to get the minimum number of operations
 to achieve a given number n
