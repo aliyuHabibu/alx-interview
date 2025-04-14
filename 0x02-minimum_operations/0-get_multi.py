@@ -1,4 +1,4 @@
-#!/bin/env python3
+#!/bin/python3
 """
 Module to get the minimum multiple
 of a given number
